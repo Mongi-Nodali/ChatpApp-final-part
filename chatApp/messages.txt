@@ -1,0 +1,154 @@
+[
+    {
+        "Message Hash": "14:0:HIWELL",
+        "Message": "hi are you well",
+        "messageNumber": 0,
+        "messageType": "disregarded",
+        "messageID": 1402799168,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "40:0:HEYYHEYY",
+        "Message": "heyy",
+        "messageNumber": 1,
+        "messageType": "sent",
+        "messageID": 4045097483,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "93:1:LOVLEYLOVLEY",
+        "Message": "lovley",
+        "messageNumber": 1,
+        "messageType": "deleted",
+        "messageID": 9325205249,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "66:1:HEYHEY",
+        "Message": "hey",
+        "messageNumber": 2,
+        "messageType": "sent",
+        "messageID": 6662267275,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "37:2:AREOKAY",
+        "Message": "are you okay",
+        "messageNumber": 3,
+        "messageType": "sent",
+        "messageID": 3780510883,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "66:3:HEYYYHEYYY",
+        "Message": "heyyy",
+        "messageNumber": 4,
+        "messageType": "sent",
+        "messageID": 6624922087,
+        "Recipient": "+27784927366"
+    },
+    {
+        "Message Hash": "43:0:HEYHEY",
+        "Message": "hey",
+        "messageNumber": 0,
+        "messageType": "disregarded",
+        "messageID": 4382465297,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "85:0:HOWYOU",
+        "Message": "how are you",
+        "messageNumber": 0,
+        "messageType": "stored",
+        "messageID": 8524608251,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "74:0:LOLLOL",
+        "Message": "lol",
+        "messageNumber": 0,
+        "messageType": "stored",
+        "messageID": 7442366665,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "88:0:HIHI",
+        "Message": "hi",
+        "messageNumber": 1,
+        "messageType": "sent",
+        "messageID": 8800825169,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "26:1:HIHI",
+        "Message": "hi",
+        "messageNumber": 1,
+        "messageType": "disregarded",
+        "messageID": 2652671279,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "66:1:LOVEYOU",
+        "Message": "love you",
+        "messageNumber": 2,
+        "messageType": "sent",
+        "messageID": 6666155242,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "23:2:ARESICK",
+        "Message": "are you still sick",
+        "messageNumber": 2,
+        "messageType": "stored",
+        "messageID": 2305777550,
+        "Recipient": "+27728643252"
+    },
+    {
+        "Message Hash": "49:2:AREBETTER",
+        "Message": "are you feeling better",
+        "messageNumber": 2,
+        "messageType": "stored",
+        "messageID": 4943105882,
+        "Recipient": "+27728643252"
+    },
+    {
+        "Message Hash": "68:2:IWELL",
+        "Message": "i hope you are well",
+        "messageNumber": 3,
+        "messageType": "deleted",
+        "messageID": 6817644160,
+        "Recipient": "+27728643252"
+    },
+    {
+        "Message Hash": "94:3:IT'SWHILE",
+        "Message": "it's been a while",
+        "messageNumber": 4,
+        "messageType": "sent",
+        "messageID": 9448300717,
+        "Recipient": "+27728643252"
+    },
+    {
+        "Message Hash": "56:0:SAWBONASAWBONA",
+        "Message": "Sawbona",
+        "messageNumber": 0,
+        "messageType": "disregarded",
+        "messageID": 5667788411,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "74:0:WHENHOME?",
+        "Message": "when should i come home?",
+        "messageNumber": 0,
+        "messageType": "stored",
+        "messageID": 7490445345,
+        "Recipient": "+27664777362"
+    },
+    {
+        "Message Hash": "19:0:HAVEARRIVE?",
+        "Message": "have you arrive?",
+        "messageNumber": 1,
+        "messageType": "disregarded",
+        "messageID": 1929852125,
+        "Recipient": "+27664777362"
+    }
+]
